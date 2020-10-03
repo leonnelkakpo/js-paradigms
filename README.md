@@ -1,0 +1,2 @@
+# js-paradigms
+JavaScriot paradigms
