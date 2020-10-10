@@ -34,7 +34,7 @@ Code style, Mindset
     var absolute_zero = -273.15;
 
     const celsiusToKelvin = (temp) => {
-    return temp - absolute_zero;
+        return temp - absolute_zero;
     };
     ```
 
@@ -48,7 +48,7 @@ Code style, Mindset
     // OR
 
     const celsiusToKelvin = (temp) => {
-        return temp + -273.15;
+        return temp + 273.15;
     };
     ```
 
